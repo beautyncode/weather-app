@@ -19,8 +19,8 @@ h2 {
 
 ul {
   position: relative;
-  bottom: 125px;
-  left: 225px;
+  bottom: 121px;
+  left: 120px;
   font-weight: lighter;
   font-size: 12px;
 }
@@ -48,10 +48,10 @@ div.container {
 }
 .degree {
   position: relative;
-  bottom: 80px;
-  left: 200px;
-  font-weight: lighter;
-  font-size: 12px;
+  bottom: 76px;
+  left: 95px;
+  font-weight: bold;
+  font-size: 14px;
 }
 
 .form-control {
