@@ -73,3 +73,10 @@ button:hover {
   background: rgba(119, 93, 98, 0.9);
   border: none;
 }
+.github-link {
+  text-align: center;
+}
+.github-link a {
+  color: rgb(83, 73, 97);
+  text-decoration: none;
+}
